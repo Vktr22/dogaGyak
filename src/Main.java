@@ -24,11 +24,16 @@ public class Main {
         Béla;22;Bp
         Cecil;33;Bp
         Anna;18;Érd
-        ehhez Ember osztályt létrehozni
+        ehhez Ember osztályt létrehozni --- ide kellenek getterek, h elerjuk az adattagokat(mivel privatak ugye)
 
         kiirni/kilistazni a legidosebb ember nevet
-        mindenki elmult 18?
-
+        mindenki elmult 18? --->eldontes tetele
+        hany féle helyen laknak? --->set (halmaz) HashSet<>()
+        hol, mennyien laknak? --->map
+            (kulcs értékek növelése if-ben, elseben adott kulcsra az 1 ertek elhelyezese
+            iter + tab
         jegyzet, stackoverflow
+
+        rendezesek!!! --sajat osztalyok rendezese
     */
 }

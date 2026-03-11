@@ -51,6 +51,25 @@ public class FileMuveletek {
         }
     }
 
+    private static void sajatTipustTobbSorbol(){
+        try{
+            List<String> sorok = Files.readAllLines(Path.of("emberek.txt"));
+            List<String> emberek = new ArrayList<>();
+            for (int i = 1; i < sorok.size(); i++) {
+                //emberek.add(new Ember())
+            }
+        }
+    }
+
+
+
+
+
+
+
+
+
+
     // --------------------------------------------------------
     // Pucolás metódus: eltávolítja a felesleges szóközöket
     // --------------------------------------------------------
