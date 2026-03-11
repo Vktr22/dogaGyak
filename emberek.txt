@@ -1,0 +1,4 @@
+NÉV;KOR;CÍM
+Béla;22;Bp
+Cecil;33;Bp
+Anna;18;Érd
